@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nombre": "rafits",
+        "apellido": "324",
+        "edad": 232,
+        "correo": "ewwdaqas",
+        "telefono": "23231343"
+    },
+    {
+        "id": 2,
+        "nombre": "andres",
+        "apellido": "gomez",
+        "edad": 21,
+        "correo": "luisgomse",
+        "telefono": "43422424"
+    }
+]
